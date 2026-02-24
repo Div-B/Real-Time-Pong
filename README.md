@@ -1,6 +1,16 @@
-# ft-transcendence
+# Real Time Pong (ft-transcendence)
 
-Notion - https://www.notion.so/FT-Transcendence-22620305a78e806693c1c70ff49169ec
+## Project Overview
+This repository contains my work on a real-time multiplayer Pong tournament platform,
+developed as part of a collaborative student project at 42 Singapore.
+
+## Contributions
+I was responsible for:
+- WebSocket-based real-time communication
+- Pong game rendering(HTML5 canvas) and Game physics
+- Tournament logic and persistence
+- Bug fixing, testing, and documentation
+
 
 **Instructions on how to run**
 1. Clone this repo to your local drive
